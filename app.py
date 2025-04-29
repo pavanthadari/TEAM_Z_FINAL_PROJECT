@@ -5,6 +5,7 @@ from agents.code_agent import generate_code
 from agents.uml_agent import generate_uml
 from agents.testcase_agent import generate_testcases
 
+
 st.title("AutoSDLC Architect Pro")
 st.caption("COT 6930-001: GenAI Software Development Lifecycles")
 
